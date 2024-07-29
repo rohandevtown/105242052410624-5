@@ -48,3 +48,14 @@ GET: Get all issued books with fine
     >> npm i nodemon --save-dev
 
     >> npm run dev
+
+## MongoDb:
+
+    (Non - Relational DB)
+
+## Cmds DB:
+
+    npm i mongoose
+    npm install mongodb
+
+mongodb+srv://rohankinnal:ghGx6SNCbWxdQemp@cluster0.jsgpglg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
