@@ -59,3 +59,11 @@ GET: Get all issued books with fine
     npm install mongodb
 
 mongodb+srv://rohankinnal:ghGx6SNCbWxdQemp@cluster0.jsgpglg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+npm i dotenv
+
+## MVC Architecture
+
+    >> M: Model (Structure of mongodb collection)
+    >> V: View (Frontend-reactJs)
+    >> C: Controller (Brain or logic of a route)
